@@ -678,7 +678,7 @@ header .search-bar-container label:hover{
 
 }
 
-@media (max-width:450px){
+@media (max-width:481px){
 
   html{
     font-size: 50%;
